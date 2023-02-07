@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
 <h1 align="center">Hi 👋, I'm Abhishek R</h1>
 <h3 align="center">An aspiring fullstack developer from India, exploring technologies...</h3>
 
