@@ -26,6 +26,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+####  Currently Coding & Listening to:
 [![Spotify](https://spotify-test-git-main-abhishek14k.vercel.app/api/spotify)](https://open.spotify.com/user/31l7bej5diurwa7lvrewo5lvzyai)
 
 <h3 align="left">Connect with me:</h3>
